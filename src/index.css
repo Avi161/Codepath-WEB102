@@ -1,0 +1,14 @@
+body {
+  background-color: #f0f0f0; /* Replace with your desired color */
+  margin: 0; /* Removes default margin */
+  font-family: Arial, sans-serif; 
+}
+
+.root {
+  background-color: #ffffff; 
+  min-height: 100vh; /* Ensures the root element covers the full viewport height */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+}
