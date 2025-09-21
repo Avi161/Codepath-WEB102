@@ -38,7 +38,6 @@ The following **additional** features are implemented:
 Here's a walkthrough of implemented required features:
 
 <img src="https://github.com/user-attachments/assets/37290b78-1151-45c4-8b63-d058f54cd593"  title='Video Walkthrough' width='' alt='Video Walkthrough' />
-<img width="1491" height="719" alt="Screenshot 2025-09-20 at 8 24 30 pm" src="https://github.com/user-attachments/assets/37290b78-1151-45c4-8b63-d058f54cd593" />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
